@@ -76,6 +76,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     TouchGestures
 
+# GameSpace
+PRODUCT_PACKAGES += \
+    GameSpace
+
 # LMOFreeform
 PRODUCT_PACKAGES += \
     LMOFreeform \
