@@ -70,7 +70,8 @@ endif
 PRODUCT_PACKAGES += \
     FrameworkOverlayCustom \
     GoogleDialerOverlayCustom \
-    SettingsOverlayCustom
+    SettingsOverlayCustom \
+    DelphiniumSystemUIOverlay
 
 # TouchGesture
 PRODUCT_PACKAGES += \
